@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}Page Not Found - Vehicle Repair Guide{% endblock %}
+
+{% block content %}
+<div style="text-align: center; padding: 60px 20px;">
+    <h1 style="font-size: 48px; margin-bottom: 20px;">404</h1>
+    <h2>Page Not Found</h2>
+    <p style="color: #666; margin: 20px 0; font-size: 16px;">The page you're looking for doesn't exist.</p>
+    <a href="{{ url_for('dashboard') }}">
+        <button style="margin-top: 20px;">Go to Dashboard</button>
+    </a>
+</div>
+{% endblock %}
