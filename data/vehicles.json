@@ -1,0 +1,470 @@
+{
+  "vehicles": {
+    "american": {
+      "Cadillac": {
+        "founded": 1902,
+        "models": {
+          "1945": ["DeVille", "Fleetwood", "60", "62"],
+          "1950": ["DeVille", "Fleetwood", "60", "62"],
+          "1960": ["DeVille", "Fleetwood", "62", "Eldorado"],
+          "1970": ["DeVille", "Fleetwood", "Eldorado", "Seville"],
+          "1980": ["DeVille", "Fleetwood", "Eldorado", "Seville", "Cimarron"],
+          "1990": ["DeVille", "Fleetwood", "Eldorado", "Seville", "Brougham"],
+          "2000": ["DeVille", "Eldorado", "Escalade", "Seville", "CTS"],
+          "2010": ["CTS", "DTS", "Escalade", "SRX", "XLR"],
+          "2020": ["CT4", "CT5", "CT6", "Escalade", "XT4", "XT5", "XT6"],
+          "2026": ["CT4", "CT5", "Lyriq", "Escalade", "Escalade IQ", "XT4", "XT5", "XT6"]
+        }
+      },
+      "Chevrolet": {
+        "founded": 1911,
+        "models": {
+          "1945": ["Fleetline", "Stylemaster", "Special"],
+          "1950": ["Fleetline", "Bel Air", "Styleline"],
+          "1960": ["Bel Air", "Impala", "Corvair", "Corvette"],
+          "1970": ["Chevelle", "Impala", "Corvette", "Nova", "Monte Carlo"],
+          "1980": ["Chevette", "Citation", "Malibu", "Monte Carlo", "Camaro", "Corvette"],
+          "1990": ["Cavalier", "Corsica", "Lumina", "Caprice", "Camaro", "Corvette"],
+          "2000": ["Cavalier", "Malibu", "Impala", "Camaro", "Corvette", "Tahoe", "Silverado"],
+          "2010": ["Cruze", "Malibu", "Impala", "Camaro", "Corvette", "Volt", "Equinox", "Traverse", "Silverado", "Tahoe"],
+          "2020": ["Spark", "Cruze", "Malibu", "Camaro", "Corvette", "Bolt", "Equinox", "Traverse", "Blazer", "Silverado", "Tahoe", "Suburban"],
+          "2026": ["Spark", "Trax", "Equinox", "Equinox EV", "Traverse", "Blazer", "Silverado", "Silverado EV", "Tahoe", "Suburban", "Blazer EV", "Corvette"]
+        }
+      },
+      "Ford": {
+        "founded": 1903,
+        "models": {
+          "1945": ["Super Deluxe", "Deluxe", "Standard"],
+          "1950": ["Crestliner", "Deluxe", "Custom"],
+          "1960": ["Falcon", "Fairlane", "Galaxie", "Thunderbird"],
+          "1970": ["Mustang", "Fairlane", "Galaxie", "Thunderbird", "Torino"],
+          "1980": ["Fiesta", "Escort", "Fairmont", "Thunderbird", "Mustang", "F-Series"],
+          "1990": ["Festiva", "Escort", "Tempo", "Thunderbird", "Mustang", "Probe", "F-Series"],
+          "2000": ["Focus", "Contour", "Taurus", "Mustang", "Thunderbird", "Explorer", "F-Series"],
+          "2010": ["Fiesta", "Focus", "Fusion", "Mustang", "Edge", "Explorer", "Escape", "F-Series"],
+          "2020": ["EcoSport", "Escape", "Edge", "Explorer", "Mustang", "Mustang Mach-E", "F-150", "Ranger", "Super Duty"],
+          "2026": ["EcoSport", "Escape", "Edge", "Explorer", "Mustang", "Mustang Mach-E", "F-150", "F-150 Lightning", "Ranger", "Super Duty"]
+        }
+      },
+      "GMC": {
+        "founded": 1911,
+        "models": {
+          "1945": ["Pickup", "Panel"],
+          "1950": ["Pickup", "Panel", "Suburban"],
+          "1960": ["Pickup", "Suburban"],
+          "1970": ["Sprint", "Jimmy", "Pickup"],
+          "1980": ["Jimmy", "Caballero", "S-15", "Pickup"],
+          "1990": ["Jimmy", "Sonoma", "Yukon", "Sierra"],
+          "2000": ["Sonoma", "Sierra", "Yukon", "Envoy"],
+          "2010": ["Terrain", "Acadia", "Yukon", "Sierra", "Savana"],
+          "2020": ["Terrain", "Acadia", "Yukon", "Sierra", "Sierra Denali", "Hummer EV", "Savana"],
+          "2026": ["Terrain", "Terrain Denali", "Acadia", "Acadia Denali", "Yukon", "Yukon Denali", "Sierra", "Sierra Denali", "Hummer EV", "Savana"]
+        }
+      },
+      "Chrysler": {
+        "founded": 1925,
+        "models": {
+          "1945": ["Royal", "Saratoga"],
+          "1950": ["Royal", "Saratoga", "New Yorker"],
+          "1960": ["300", "New Yorker", "Saratoga"],
+          "1970": ["300", "Newport", "Cordoba"],
+          "1980": ["Cordoba", "LeBaron", "Newport", "New Yorker"],
+          "1990": ["LeBaron", "New Yorker", "Imperial"],
+          "2000": ["Sebring", "Concorde", "300M", "LHS"],
+          "2010": ["Sebring", "300", "300C"],
+          "2020": ["Pacifica", "300"],
+          "2026": ["Pacifica"]
+        }
+      },
+      "Dodge": {
+        "founded": 1900,
+        "models": {
+          "1945": ["D-24", "Custom"],
+          "1950": ["Wayfarer", "Coronet"],
+          "1960": ["Dart", "Polara", "Monaco"],
+          "1970": ["Dart", "Charger", "Coronet", "Monaco"],
+          "1980": ["Omni", "Colt", "Charger", "Mirada"],
+          "1990": ["Shadow", "Spirit", "Daytona", "Intrepid"],
+          "2000": ["Neon", "Intrepid", "Dakota", "Durango"],
+          "2010": ["Caliber", "Avenger", "Charger", "Dakota", "Durango"],
+          "2020": ["Charger", "Challenger", "Durango", "RAM 1500"],
+          "2026": ["Charger", "Challenger", "Durango", "RAM 1500", "RAM 2500"]
+        }
+      },
+      "Jeep": {
+        "founded": 1941,
+        "models": {
+          "1945": ["CJ"],
+          "1950": ["CJ-3A", "Wagon"],
+          "1960": ["Willys Wagon", "CJ-5", "CJ-6"],
+          "1970": ["CJ-5", "Commando", "Wagoneer"],
+          "1980": ["CJ-5", "CJ-7", "Wagoneer", "Cherokee"],
+          "1990": ["Wrangler", "Cherokee", "Comanche", "Grand Cherokee"],
+          "2000": ["Wrangler", "Cherokee", "Grand Cherokee", "Liberty"],
+          "2010": ["Wrangler", "Patriot", "Liberty", "Grand Cherokee"],
+          "2020": ["Wrangler", "Gladiator", "Compass", "Renegade", "Cherokee", "Grand Cherokee"],
+          "2026": ["Wrangler", "Wrangler 4xe", "Gladiator", "Compass", "Renegade", "Cherokee", "Grand Cherokee", "Grand Cherokee L"]
+        }
+      },
+      "Plymouth": {
+        "founded": 1928,
+        "models": {
+          "1945": ["Deluxe"],
+          "1950": ["Special Deluxe", "Deluxe"],
+          "1960": ["Valiant", "Fury", "Savoy"],
+          "1970": ["Valiant", "Duster", "Road Runner", "Fury"],
+          "1980": ["Horizon", "Reliant", "Sapporo"],
+          "1990": ["Voyager", "Acclaim", "Sundance"],
+          "2000": ["Voyager", "Prowler"],
+          "2010": [],
+          "2020": [],
+          "2026": []
+        }
+      },
+      "Pontiac": {
+        "founded": 1926,
+        "models": {
+          "1945": ["Streamliner"],
+          "1950": ["Streamliner", "Catalina"],
+          "1960": ["Catalina", "Bonneville", "Lemans"],
+          "1970": ["GTO", "Lemans", "Bonneville", "Grand Am"],
+          "1980": ["Sunbird", "Lemans", "Phoenix", "Grand Am", "Firebird"],
+          "1990": ["LeMans", "Grand Am", "Grand Prix", "Firebird"],
+          "2000": ["Grand Am", "Grand Prix", "Firebird"],
+          "2010": [],
+          "2020": [],
+          "2026": []
+        }
+      },
+      "Oldsmobile": {
+        "founded": 1897,
+        "models": {
+          "1945": ["Dynamic", "Special"],
+          "1950": ["Futuramic", "Dynamic", "88", "98"],
+          "1960": ["F-85", "Starfire", "88", "98"],
+          "1970": ["F-85", "Cutlass", "Regency", "88", "98"],
+          "1980": ["Starfire", "Omega", "Cutlass", "Regency", "98"],
+          "1990": ["Firenza", "Achieva", "Cutlass", "Regency", "98"],
+          "2000": ["Alero", "Intrigue", "Intrigue", "Aurora"],
+          "2010": [],
+          "2020": [],
+          "2026": []
+        }
+      },
+      "Buick": {
+        "founded": 1903,
+        "models": {
+          "1945": ["Special", "Roadmaster"],
+          "1950": ["Special", "Super", "Roadmaster"],
+          "1960": ["Opel", "Special", "Skylark", "LeSabre", "Electra", "Roadmaster"],
+          "1970": ["Skylark", "Special", "LeSabre", "Electra", "Riviera"],
+          "1980": ["Skylark", "Century", "LeSabre", "Electra", "Riviera"],
+          "1990": ["Skylark", "Century", "Regal", "LeSabre", "Electra", "Riviera", "Roadmaster"],
+          "2000": ["LeSabre", "Regal", "Park Avenue", "Riviera"],
+          "2010": ["Lucerne", "Enclave"],
+          "2020": ["Encore", "Encore GX", "Enclave"],
+          "2026": ["Encore", "Encore GX", "Enclave"]
+        }
+      },
+      "AMC": {
+        "founded": 1954,
+        "models": {
+          "1960": ["Rambler", "Metropolitan"],
+          "1970": ["Gremlin", "Hornet", "Rebel", "Ambassador"],
+          "1980": ["Spirit", "Concord", "Eagle", "Pacer"],
+          "1990": [],
+          "2000": [],
+          "2010": [],
+          "2020": [],
+          "2026": []
+        }
+      }
+    },
+    "japanese": {
+      "Honda": {
+        "founded": 1949,
+        "models": {
+          "1960": [],
+          "1970": ["N600", "S800"],
+          "1980": ["Civic", "Accord", "Prelude"],
+          "1990": ["Civic", "Accord", "Prelude", "CR-X"],
+          "2000": ["Civic", "Accord", "Prelude", "CR-V", "Odyssey"],
+          "2010": ["Fit", "Civic", "Accord", "Crosstour", "CR-V", "Pilot", "Odyssey"],
+          "2020": ["Fit", "Civic", "Accord", "CR-V", "Pilot", "Odyssey", "Insight", "Clarity"],
+          "2026": ["Fit", "Civic", "Accord", "CR-V", "HR-V", "Pilot", "Odyssey"]
+        }
+      },
+      "Toyota": {
+        "founded": 1937,
+        "models": {
+          "1960": ["Publica"],
+          "1970": ["Corolla", "Carina"],
+          "1980": ["Corolla", "Carina", "Celica", "Supra", "Corona"],
+          "1990": ["Corolla", "Camry", "Celica", "Supra", "Tercel"],
+          "2000": ["Corolla", "Camry", "Celica", "Supra", "RAV4", "4Runner", "Highlander"],
+          "2010": ["Corolla", "Camry", "Prius", "RAV4", "4Runner", "Highlander", "Sequoia", "Tacoma", "Tundra"],
+          "2020": ["Corolla", "Camry", "Mirai", "Prius", "Prius Prime", "RAV4", "RAV4 Prime", "4Runner", "Highlander", "Venza", "Sequoia", "Tacoma", "Tundra"],
+          "2026": ["Corolla", "Corolla Hybrid", "Camry", "Camry Hybrid", "bZ4X", "GR Corolla", "GR86", "Mirai", "Prius", "Prius Prime", "RAV4", "RAV4 Prime", "RAV4 EV", "4Runner", "Highlander", "Venza", "Sequoia", "Tacoma", "Tundra"]
+        }
+      },
+      "Nissan": {
+        "founded": 1933,
+        "models": {
+          "1960": [],
+          "1970": ["Datsun 1200", "Datsun 510", "Datsun 240Z"],
+          "1980": ["Sentra", "Stanza", "Maxima", "280ZX"],
+          "1990": ["Sentra", "Stanza", "Maxima", "Z", "Pathfinder"],
+          "2000": ["Sentra", "Altima", "Maxima", "350Z", "Pathfinder", "Frontier", "Titan"],
+          "2010": ["Versa", "Sentra", "Altima", "Maxima", "370Z", "Pathfinder", "Rogue", "Murano", "Frontier", "Titan"],
+          "2020": ["Versa", "Sentra", "Altima", "Maxima", "Z", "Pathfinder", "Rogue", "Murano", "Ariya", "Frontier", "Titan"],
+          "2026": ["Versa", "Sentra", "Altima", "Maxima", "Z", "Pathfinder", "Rogue", "Rogue Sport", "Murano", "Ariya", "Frontier", "Titan"]
+        }
+      },
+      "Mazda": {
+        "founded": 1920,
+        "models": {
+          "1960": [],
+          "1970": ["Cosmo", "RX-2"],
+          "1980": ["323", "626", "RX-7"],
+          "1990": ["323", "626", "929", "RX-7", "MPV"],
+          "2000": ["Protege", "626", "Millenia", "RX-8", "Tribute"],
+          "2010": ["Mazda2", "Mazda3", "Mazda5", "Mazda6", "RX-8", "CX-7", "CX-9"],
+          "2020": ["Mazda2", "Mazda3", "Mazda6", "CX-30", "CX-50", "CX-5", "CX-9", "MX-5"],
+          "2026": ["Mazda2", "Mazda3", "Mazda6", "CX-30", "CX-50", "CX-5", "CX-9", "MX-5"]
+        }
+      },
+      "Subaru": {
+        "founded": 1953,
+        "models": {
+          "1970": ["FF-1"],
+          "1980": ["DL", "GL"],
+          "1990": ["Justy", "Loyale", "XT", "Legacy"],
+          "2000": ["Impreza", "Legacy", "Outback", "Forester"],
+          "2010": ["Impreza", "WRX", "Legacy", "Outback", "Forester", "Tribeca"],
+          "2020": ["Impreza", "WRX", "Legacy", "Outback", "Forester", "Crosstrek", "Ascent", "BRZ"],
+          "2026": ["Impreza", "WRX", "Legacy", "Outback", "Forester", "Crosstrek", "Solterra", "Ascent", "BRZ"]
+        }
+      },
+      "Mitsubishi": {
+        "founded": 1917,
+        "models": {
+          "1970": [],
+          "1980": ["Lancer", "Celeste", "Galant"],
+          "1990": ["Mirage", "Lancer", "Galant", "Diamante", "3000GT"],
+          "2000": ["Mirage", "Lancer", "Galant", "Montero", "Outlander"],
+          "2010": ["i-MiEV", "Mirage", "Lancer", "Galant", "Outlander", "Montero"],
+          "2020": ["i-MiEV", "Mirage", "Mirage G4", "Lancer", "Outlander", "Montero Sport"],
+          "2026": ["i-MiEV", "Mirage", "Mirage G4", "Outlander", "Outlander PHEV", "Montero Sport"]
+        }
+      }
+    },
+    "european": {
+      "Volkswagen": {
+        "founded": 1937,
+        "models": {
+          "1945": ["Beetle"],
+          "1950": ["Beetle", "Karmann Ghia"],
+          "1960": ["Beetle", "Karmann Ghia", "Bus"],
+          "1970": ["Beetle", "Karmann Ghia", "Squareback", "Fastback"],
+          "1980": ["Rabbit", "Jetta", "Scirocco", "Beetle"],
+          "1990": ["Golf", "Jetta", "Passat", "Cabrio"],
+          "2000": ["Golf", "Jetta", "Passat", "Cabrio", "New Beetle"],
+          "2010": ["Golf", "Jetta", "Passat", "Eos", "Tiguan", "Touareg"],
+          "2020": ["Golf", "Jetta", "Passat", "Beetle", "Tiguan", "ID.4", "Touareg"],
+          "2026": ["Golf", "Jetta", "Passat", "ID.Buzz", "Tiguan", "ID.4", "ID.5", "Touareg"]
+        }
+      },
+      "Mercedes-Benz": {
+        "founded": 1926,
+        "models": {
+          "1945": [],
+          "1950": ["170", "220"],
+          "1960": ["190", "220SE", "300SE"],
+          "1970": ["C", "E", "S", "SL"],
+          "1980": ["190", "260E", "300E", "420SEL", "560SEL", "560SL"],
+          "1990": ["190E", "C-Class", "E-Class", "S-Class", "SL", "SLK"],
+          "2000": ["C-Class", "CLK", "E-Class", "S-Class", "SL", "SLK", "M-Class"],
+          "2010": ["B-Class", "C-Class", "CLK", "E-Class", "S-Class", "SL", "SLK", "GLK", "M-Class"],
+          "2020": ["A-Class", "B-Class", "C-Class", "CLA", "E-Class", "S-Class", "AMG GT", "SL", "GLC", "GLE", "GLS"],
+          "2026": ["A-Class", "B-Class", "C-Class", "CLA", "EQE", "E-Class", "S-Class", "AMG GT", "SL", "GLC", "GLE", "GLS"]
+        }
+      },
+      "BMW": {
+        "founded": 1916,
+        "models": {
+          "1945": [],
+          "1950": ["501", "502"],
+          "1960": ["700", "3200CS"],
+          "1970": ["1600", "2002", "3.0CS", "5-Series"],
+          "1980": ["3-Series", "5-Series", "6-Series", "7-Series", "M1"],
+          "1990": ["3-Series", "5-Series", "7-Series", "M3", "M5", "Z1"],
+          "2000": ["3-Series", "5-Series", "7-Series", "Z3", "Z8", "X5"],
+          "2010": ["1-Series", "3-Series", "5-Series", "6-Series", "7-Series", "X1", "X3", "X5", "X6"],
+          "2020": ["1-Series", "2-Series", "3-Series", "4-Series", "5-Series", "7-Series", "M440i", "X1", "X2", "X3", "X4", "X5", "X6", "X7", "i4"],
+          "2026": ["1-Series", "2-Series", "3-Series", "4-Series", "5-Series", "7-Series", "M440i", "i5", "i7", "X1", "X2", "X3", "X4", "X5", "X6", "X7"]
+        }
+      },
+      "Audi": {
+        "founded": 1909,
+        "models": {
+          "1960": [],
+          "1970": ["80", "100"],
+          "1980": ["80", "100", "Coupe"],
+          "1990": ["80", "100", "A4", "A6", "S4"],
+          "2000": ["A3", "A4", "A6", "A8", "TT"],
+          "2010": ["A1", "A3", "A4", "A5", "A6", "A7", "A8", "Q3", "Q5", "Q7"],
+          "2020": ["A1", "A3", "A4", "A5", "A6", "A7", "A8", "e-tron", "Q2", "Q3", "Q5", "Q7", "Q8", "TT"],
+          "2026": ["A1", "A3", "A4", "A6", "A8", "Q3", "Q5", "Q7", "Q8", "e-tron", "Q4 e-tron", "SQ7"]
+        }
+      },
+      "Porsche": {
+        "founded": 1948,
+        "models": {
+          "1960": ["356"],
+          "1970": ["356", "911", "914"],
+          "1980": ["911", "924", "928"],
+          "1990": ["911", "924", "944", "968"],
+          "2000": ["911", "Boxster", "996"],
+          "2010": ["911", "Boxster", "Cayman"],
+          "2020": ["911", "992", "Boxster", "Cayman", "Panamera", "Cayenne", "Macan"],
+          "2026": ["911", "992", "Boxster", "Cayman", "Panamera", "Taycan", "Cayenne", "Macan", "Macan Electric"]
+        }
+      },
+      "Jaguar": {
+        "founded": 1935,
+        "models": {
+          "1945": [],
+          "1950": ["XK120"],
+          "1960": ["XK150", "Mark II", "E-Type"],
+          "1970": ["E-Type", "XJ"],
+          "1980": ["XJ", "XJS"],
+          "1990": ["XJ", "XJS"],
+          "2000": ["XJ", "XK8", "X-Type"],
+          "2010": ["XF", "XJ", "XK"],
+          "2020": ["XE", "XF", "XJ"],
+          "2026": ["XE", "XF"]
+        }
+      },
+      "Rolls-Royce": {
+        "founded": 1906,
+        "models": {
+          "1945": [],
+          "1950": ["Silver Wraith"],
+          "1960": ["Silver Cloud", "Phantom V"],
+          "1970": ["Silver Shadow", "Phantom VI"],
+          "1980": ["Silver Shadow II", "Silver Spirit", "Phantom VI"],
+          "1990": ["Silver Spirit", "Silver Spur", "Park Ward"],
+          "2000": ["Silver Shadow", "Silver Seraph"],
+          "2010": ["Ghost", "Phantom"],
+          "2020": ["Ghost", "Wraith", "Phantom", "Cullinan"],
+          "2026": ["Ghost", "Wraith", "Phantom", "Cullinan"]
+        }
+      },
+      "Bentley": {
+        "founded": 1919,
+        "models": {
+          "1960": [],
+          "1970": [],
+          "1980": [],
+          "1990": ["Turbo", "Continental R"],
+          "2000": ["Arnage", "Azure"],
+          "2010": ["Continental", "Continental Flying Spur", "Mulsanne"],
+          "2020": ["Continental GT", "Flying Spur", "Mulsanne", "Bentayga"],
+          "2026": ["Continental GT", "Flying Spur", "Bentayga", "Batur"]
+        }
+      },
+      "Volvo": {
+        "founded": 1927,
+        "models": {
+          "1960": ["PV544", "Amazon"],
+          "1970": ["140", "164", "P1800"],
+          "1980": ["240", "260", "360"],
+          "1990": ["740", "760", "850", "960"],
+          "2000": ["S40", "S60", "S70", "S80", "V70", "C70"],
+          "2010": ["S40", "S60", "S80", "V50", "V60", "V70", "C70", "XC60"],
+          "2020": ["S60", "S90", "V60", "V90", "XC40", "XC60", "XC90"],
+          "2026": ["S60", "S90", "V60", "V90", "XC40", "XC60", "XC90"]
+        }
+      },
+      "SEAT": {
+        "founded": 1950,
+        "models": {
+          "1970": ["124", "127"],
+          "1980": ["Ibiza", "Marbella"],
+          "1990": ["Ibiza", "Toledo", "Marbella"],
+          "2000": ["Ibiza", "Cordoba", "Toledo", "Leon"],
+          "2010": ["Ibiza", "Cordoba", "Leon", "Altea", "Altea XL"],
+          "2020": ["Mii", "Ibiza", "Leon", "Arona", "Ateca"],
+          "2026": ["Mii", "Ibiza", "Leon", "Arona", "Ateca"]
+        }
+      },
+      "Fiat": {
+        "founded": 1899,
+        "models": {
+          "1945": ["500B"],
+          "1950": ["500B", "1100", "1400"],
+          "1960": ["500", "600", "1300", "2300"],
+          "1970": ["500", "600", "128", "131"],
+          "1980": ["500", "126", "127", "131", "Ritmo"],
+          "1990": ["Panda", "Uno", "Tipo", "Tempra"],
+          "2000": ["Seicento", "Panda", "Punto", "Bravo", "Marea"],
+          "2010": ["Panda", "Punto", "Bravo", "Grande Punto", "500"],
+          "2020": ["500", "500X", "Panda", "Punto"],
+          "2026": ["500", "500X", "600", "Panda"]
+        }
+      },
+      "Alfa Romeo": {
+        "founded": 1910,
+        "models": {
+          "1945": [],
+          "1950": ["6C", "1900"],
+          "1960": ["Giulia", "Sprint", "Spider"],
+          "1970": ["Giulia", "Montreal", "Spider"],
+          "1980": ["Alfasud", "GTV6", "Spider"],
+          "1990": ["33", "155", "Spider"],
+          "2000": ["156", "166", "Spider", "GTV"],
+          "2010": ["Mito", "147", "159", "Brera", "Spider"],
+          "2020": ["Mito", "Giulietta", "Giulia", "Stelvio"],
+          "2026": ["Mito", "Giulietta", "Giulia", "Tonale", "Stelvio"]
+        }
+      }
+    },
+    "other": {
+      "Hyundai": {
+        "founded": 1967,
+        "models": {
+          "1980": ["Pony"],
+          "1990": ["Excel", "Scoupe"],
+          "2000": ["Accent", "Elantra", "Tiburon", "Santa Fe"],
+          "2010": ["Accent", "Elantra", "Tiburon", "Santa Fe", "Tucson", "Veracruz"],
+          "2020": ["Accent", "Elantra", "Sonata", "Tucson", "Santa Fe", "Palisade", "Ioniq", "Kona"],
+          "2026": ["Accent", "Elantra", "Sonata", "Tucson", "Santa Fe", "Palisade", "Ioniq 5", "Ioniq 6", "Ioniq 7", "Kona", "Kona Electric"]
+        }
+      },
+      "Kia": {
+        "founded": 1944,
+        "models": {
+          "1990": ["Sephia", "Sportage"],
+          "2000": ["Spectra", "Amanti", "Sportage", "Sorento"],
+          "2010": ["Forte", "Optima", "Sportage", "Sorento"],
+          "2020": ["Forte", "Optima", "Stinger", "Sportage", "Sorento", "Telluride", "Niro", "EV6"],
+          "2026": ["Forte", "K5", "K8", "Sportage", "Sorento", "Telluride", "Niro", "EV6", "EV9"]
+        }
+      },
+      "Chevrolet": {
+        "founded": 1911,
+        "models": {
+          "2020": ["Trailblazer", "Trailblazer EV"],
+          "2026": ["Trailblazer", "Trailblazer EV"]
+        }
+      }
+    }
+  },
+  "metadata": {
+    "created": "2026-07-13",
+    "version": "1.0",
+    "description": "Comprehensive vehicle makes and models database from 1945 to 2026",
+    "coverage_years": "1945-2026",
+    "note": "Models listed represent key production years. Some years may have additional regional models not included."
+  }
+}
